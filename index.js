@@ -6,23 +6,23 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'title',
-            message: "Enter your project title",
+            message: "Enter your project title: ",
         },
         {
             type: 'input',
             name: 'description',
-            message: "Enter your project description.",
+            message: "Enter your project description: ",
         },
         {
             type: 'checkbox',
             name: 'installation',
-            message: "Enter your project installation.",
+            message: "Enter your project installation: ",
             choices: ['HTML', 'JavaScript', "Python", "Fortran", "node", "npm"],
         },
         {
             type: 'input',
             name: 'usageContext',
-            message: "Enter your project usage description.",
+            message: "Enter your project usage description: ",
         },
         {
             type: 'input',
@@ -32,22 +32,22 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'contributing',
-            message: "Enter your project Contributing.",
+            message: "Enter your project Contributing: ",
         },
         {
             type: 'input',
             name: 'tests',
-            message: "Enter your project tests.",
+            message: "Enter your project tests: ",
         },
         {
             type: 'input',
             name: 'name',
-            message: "Enter your Github Username.",
+            message: "Enter your Github Username: ",
         },
         {
             type: 'input',
             name: 'email',
-            message: "Enter your email address.",
+            message: "Enter your email address: ",
         },
     ]);
 };

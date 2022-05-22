@@ -17,7 +17,7 @@ JavaScript,node,npm
 ## usage
 This is the usage Description.
 
-![screenshot](./assets/image/screenshot1.png)
+![screenshot](./assets/images/screenshot1.png)
 
 ## contributing
 This is contributing
