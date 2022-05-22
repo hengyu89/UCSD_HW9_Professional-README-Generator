@@ -94,7 +94,7 @@ ${contributing}
 ${tests}
 
 ## Questions
-Link to the user's github: [Go to Github.](github.com/${name}) \n
+Link to the user's github: github.com/${name} \n
 User's email address: ${email}
 `
 
