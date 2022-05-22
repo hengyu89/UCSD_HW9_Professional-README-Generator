@@ -134,6 +134,7 @@ const init = () => {
             of this license document, but changing it is not allowed.`
         }
         // Write the file.
+        console.log(answers);
         fs.writeFileSync('README.md', generateREADME(answers))
     })
     .then(() => console.log("Successfully wrote to README.md"))

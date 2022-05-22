@@ -1,9 +1,9 @@
-# This is the title
+# This is title
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description (User Story)
 
-This is the description
+This is description
 
 ## Table of Contents 
 
@@ -16,7 +16,7 @@ This is the description
 JavaScript,node,npm
 
 ## usage
-This is the  usage description
+This is usage description
 
 ![screenshot](./assets/images/screenshot1.png)
 
@@ -47,11 +47,12 @@ MIT License
             SOFTWARE.
 
 ## contributing
-This is the contributing
+This is contributing
 
 ## Tests
-This is the tests
+This is tests
 
 ## Questions
-Link to the user's github: [Go to Github.](github.com/hengyu89)
+Link to the user's github: [Go to Github.](github.com/hengyu89) 
+
 User's email address: heng.yu161@gmail.com
