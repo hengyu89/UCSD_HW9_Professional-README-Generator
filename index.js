@@ -81,7 +81,7 @@ ${contributing}
 ${tests}
 
 ## Questions
-Link to the user's github: [Go to Github.]${name}
+Link to the user's github: [Go to Github.](github.com/${name})
 User's email address: ${email}
 `
 

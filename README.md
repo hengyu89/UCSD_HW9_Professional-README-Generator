@@ -1,8 +1,8 @@
-# this is title
+# This is the title
 
 ## Description (User Story)
 
-this is description
+This is the Desctiption
 
 ## Table of Contents 
 
@@ -15,16 +15,16 @@ this is description
 JavaScript,node,npm
 
 ## usage
-this is usage description
+This is the usage Description.
 
 ![screenshot](./assets/image/screenshot1.png)
 
 ## contributing
-this is contributing 
+This is contributing
 
 ## Tests
-this is tests
+this is test
 
 ## Questions
-Link to the user's github: [Go to Github.]hengyu89
+Link to the user's github: [Go to Github.](github.com/hengyu89)
 User's email address: heng.yu161@gmail.com
