@@ -19,9 +19,9 @@ SO THAT I can quickly create a professional README for a new project
 
 This program serve a efficient choice that user doesn't need to pay much time on creating a README file anymore.
 
-```md
+
 [screenshot](./assets/images/screenshot1.png)
-```
+
 
 ## License
 
