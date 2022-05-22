@@ -52,7 +52,7 @@ This is contributing
 ## Tests
 This is tests
 
-[![Watch the video](./assets/images/screenshot1.png)](./assets/video/operation.mp4)
+[![Watch the video](./assets/images/screenshot1.png)](https://www.youtube.com/watch?v=hsB3-1Iz3do)
 
 ## Questions
 Link to the user's github: github.com/hengyu89 
