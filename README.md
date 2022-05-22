@@ -16,7 +16,7 @@ This is description
 JavaScript,node,npm
 
 ## usage
-This is  usage description
+This is usage description
 
 ![screenshot](./assets/images/screenshot1.png)
 
@@ -52,7 +52,9 @@ This is contributing
 ## Tests
 This is tests
 
+[![Watch the video](./assets/images/screenshot1.png)](./assets/video/operation.mp4)
+
 ## Questions
 Link to the user's github: github.com/hengyu89 
 
-User's email address: 
+User's email address: heng.yu161@gmail.com
