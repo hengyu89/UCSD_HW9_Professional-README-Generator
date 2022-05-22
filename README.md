@@ -1,13 +1,20 @@
 # UCSD_HW9_Professional-README-Generator
 This program can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-## User Story
+## User Story (Description)
 
 ```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
+
+## Table of Contents 
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
@@ -21,6 +28,10 @@ This program serve a efficient choice that user doesn't need to pay much time on
 
 
 ![screenshot](./assets/images/screenshot1.png)
+
+As the image above shows, user only needs to follow the instructions after running the codes with node. Then the readme file will be created automatically.
+
+## Credits
 
 
 ## License
@@ -46,3 +57,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Contributing
+
+## Tests
+
+## Questions
