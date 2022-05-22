@@ -93,6 +93,8 @@ ${contributing}
 ## Tests
 ${tests}
 
+[![Watch the video](./assets/images/screenshot1.png)](./assets/video/operation.mp4)
+
 ## Questions
 Link to the user's github: github.com/${name} \n
 User's email address: ${email}
